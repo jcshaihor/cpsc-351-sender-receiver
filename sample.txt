@@ -1,0 +1,4 @@
+Hello, this is a test.
+This sample.txt will have 4 sentences.
+Even though its summer, the weather has been cold throughout June.
+Thank you for reading this sample text.
